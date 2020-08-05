@@ -9,7 +9,7 @@
   
   
 ## Then, the code was written in Python after importing cv2 from the OpenCV library
-![](Pictures/PythonCode.jpg)
+![](Picture/PythonCode.jpg)
 
  ### Casecade classifers for face, smile and eyes were downloaded from the openCV github page [2].
  
