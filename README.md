@@ -15,7 +15,7 @@
  
  
 
-## Finally, the result is shown in the video:
+## Finally, the result is shown in this YouTube video in my channel:
 
 ## https://youtu.be/LZ8GOAO2gOQ
 
