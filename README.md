@@ -15,8 +15,9 @@
  
  
 
-## Finally, the resultant video is shown in a window 
-Vid
+## Finally, the result is shown in the video:
+
+https://youtu.be/LZ8GOAO2gOQ
 
 
 ## References
